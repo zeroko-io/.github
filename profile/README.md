@@ -1,12 +1,16 @@
-## Hi there 👋
+## zeroko
 
-<!--
+Your agents write the service. We run it.
 
-**Here are some ideas to get you started:**
+Zeroko runs small HTTP services that you and your agents build: websites,
+APIs, webhooks. Give Claude (or any agent) one skill, and it writes the
+code, deploys it and keeps an eye on it. Each service comes with a
+database, files, background jobs and realtime, already wired.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Run it on [Zeroko Cloud](https://zeroko.io), free to start, or on your own
+machine:
+
+- [**runner**](https://github.com/zeroko-io/runner): the engine that runs the services. AGPL.
+- [**panel**](https://github.com/zeroko-io/panel): the panel to manage it, self-hosted. MIT.
+
+[Docs](https://zeroko.io/docs) &nbsp;&nbsp;|&nbsp;&nbsp; [Quickstart](https://zeroko.io/docs/quickstart)
